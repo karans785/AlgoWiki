@@ -102,4 +102,4 @@ There are many topics, you can contribute to – Just create topics and add reso
 
 Built with :heart: in GitHub! 
 
-LICENCE: [MIT](LICENSE) (c) Vikesh Tiwari, AlgoWiki
+LICENCE: [MIT](LICENSE) (c) Vikesh Tiwari, AlgoWiki.
